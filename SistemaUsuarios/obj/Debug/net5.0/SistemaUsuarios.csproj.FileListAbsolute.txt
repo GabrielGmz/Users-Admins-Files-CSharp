@@ -1,0 +1,54 @@
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.exe
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.deps.json
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.runtimeconfig.json
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.runtimeconfig.dev.json
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.dll
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\ref\SistemaUsuarios.dll
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.pdb
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.AssemblyReference.cache
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.AssemblyInfoInputs.cache
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.AssemblyInfo.cs
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.dll
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\ref\SistemaUsuarios.dll
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.pdb
+C:\Users\Jorge Villanueva\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.genruntimeconfig.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.exe
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.deps.json
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.runtimeconfig.json
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.runtimeconfig.dev.json
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.dll
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\ref\SistemaUsuarios.dll
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.pdb
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.AssemblyReference.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.AssemblyInfoInputs.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.AssemblyInfo.cs
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.CoreCompileInputs.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.dll
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\ref\SistemaUsuarios.dll
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.pdb
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.genruntimeconfig.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\myFiles.dll
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\myFiles.pdb
+D:\ElvisFolder\Escritorio\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.CopyComplete
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.exe
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.deps.json
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.runtimeconfig.json
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.runtimeconfig.dev.json
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.dll
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\ref\SistemaUsuarios.dll
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\SistemaUsuarios.pdb
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\myFiles.dll
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\bin\Debug\net5.0\myFiles.pdb
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.AssemblyReference.cache
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.AssemblyInfoInputs.cache
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.AssemblyInfo.cs
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.csproj.CopyComplete
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.dll
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\ref\SistemaUsuarios.dll
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.pdb
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\SistemaUsuarios\obj\Debug\net5.0\SistemaUsuarios.genruntimeconfig.cache

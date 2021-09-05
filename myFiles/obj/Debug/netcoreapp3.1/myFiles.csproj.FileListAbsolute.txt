@@ -1,0 +1,19 @@
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\bin\Debug\netcoreapp3.1\myFiles.deps.json
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\bin\Debug\netcoreapp3.1\myFiles.dll
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\bin\Debug\netcoreapp3.1\myFiles.pdb
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.csproj.AssemblyReference.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.AssemblyInfoInputs.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.AssemblyInfo.cs
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.csproj.CoreCompileInputs.cache
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.dll
+D:\ElvisFolder\Escritorio\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.pdb
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\bin\Debug\netcoreapp3.1\myFiles.deps.json
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\bin\Debug\netcoreapp3.1\myFiles.dll
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\bin\Debug\netcoreapp3.1\myFiles.pdb
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.csproj.AssemblyReference.cache
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.AssemblyInfoInputs.cache
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.AssemblyInfo.cs
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.dll
+C:\Users\Gabriel Gómez\Desktop\SistemaUsuarios\myFiles\obj\Debug\netcoreapp3.1\myFiles.pdb
