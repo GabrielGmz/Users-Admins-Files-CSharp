@@ -1,0 +1,1 @@
+Aprendi que con git y github es mucho mas facil gestionar tanto la version de nuestro proyecto, asi como tambien facilita el trabajo en equipo con su control de versiones y nos dice si existe algun conflicto con codigo de otro compañero. Ademas aprendi lo util de usar librerias ya que estas permiten implementar bloques de codigo de forma facil y escalable.

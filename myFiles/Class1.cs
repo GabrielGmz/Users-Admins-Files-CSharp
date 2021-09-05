@@ -2,6 +2,7 @@
 using System.IO;
 
 namespace myFiles
+//Rama Gabriel Gómez SMIS019220
 {
     public class EditFiles
     {
@@ -24,7 +25,6 @@ namespace myFiles
 
         static void OpenFile(int index)
         {
-            Console.WriteLine("holasdadasd");
             // get files from relative directory in project
             string path = Path.Combine(Environment.CurrentDirectory, @"Files");
             string[] files = Directory.GetFiles(path);

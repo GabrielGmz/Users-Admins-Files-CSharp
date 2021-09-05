@@ -3,6 +3,8 @@ using System.IO;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
+//Rama David Fernandez SMIS006121
+
 namespace SistemaUsuarios
 {
     class Program
@@ -72,7 +74,6 @@ namespace SistemaUsuarios
             public string Archivo1 { get; set; }
             public string Archivo2 { get; set; }
         }
-
         private static void RegistrarUsuario()
         {
             string usuario = "";
@@ -110,6 +111,8 @@ namespace SistemaUsuarios
             Console.ReadKey();
 
         }
+        
+        //Rama Saul Hernandez SMIS108421
         private static void CrearArchivos()
         {
             Console.Clear();
